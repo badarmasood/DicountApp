@@ -48,7 +48,7 @@ export default function App() {
 
       <TouchableOpacity style={styles.button} onPress={Discount}>
         <Text style={{ color: "white", fontSize: 20, fontWeight: "bold" }}>
-          Apply Discount
+          Apply Discount Here
         </Text>
       </TouchableOpacity>
 
